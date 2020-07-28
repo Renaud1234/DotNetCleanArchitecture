@@ -1,0 +1,16 @@
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.deps.json
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Application.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Domain.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Infra.Data.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Infra.Data.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Application.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\bin\Debug\netstandard2.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.csproj.CopyComplete
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Infrastructure.IoC\Infrastructure.IoC\obj\Debug\netstandard2.0\CleanArchitectureDemo.Infrastructure.IoC.pdb

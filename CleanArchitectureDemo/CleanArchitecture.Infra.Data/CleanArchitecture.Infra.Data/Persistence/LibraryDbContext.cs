@@ -1,7 +1,7 @@
 ﻿using CleanArchitectureDemo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchitecture.Infra.Data.Persistence
+namespace CleanArchitectureDemo.Infra.Data.Persistence
 {
     public class LibraryDbContext : DbContext
     {

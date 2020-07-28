@@ -84,7 +84,12 @@ C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\Clean
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\obj\Debug\netcoreapp3.1\CleanArchitectureDemo.UI.MVC.genruntimeconfig.cache
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Domain.dll
-C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Domain.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Infra.Data.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Infra.Data.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Application.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Infrastructure.IoC.dll
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Infrastructure.IoC.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\bin\Debug\netcoreapp3.1\CleanArchitectureDemo.Application.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.UI.MVC\UI.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs

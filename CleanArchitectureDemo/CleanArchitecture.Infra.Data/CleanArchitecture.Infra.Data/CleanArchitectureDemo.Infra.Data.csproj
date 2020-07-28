@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CleanArchitectureDemo.Infra.Data</AssemblyName>
+    <RootNamespace>CleanArchitectureDemo.Infra.Data</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

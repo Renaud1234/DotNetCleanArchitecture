@@ -6218,9 +6218,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
-      "projectName": "CleanArchitecture.Infra.Data",
-      "projectPath": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\CleanArchitectureDemo.Infra.Data.csproj",
+      "projectName": "CleanArchitectureDemo.Infra.Data",
+      "projectPath": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\CleanArchitectureDemo.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\renau\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",

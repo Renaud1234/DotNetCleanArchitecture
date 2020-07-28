@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JKpY+78zMvYvs13OadIC03gMj8sh5Tw/SuN3iDY1kBoIFPLGxaaslH9+jwfR59+kLq7QiwTx6uziVyjQy/z5w==",
+  "dgSpecHash": "ifDq2050Eqh/he7wBRu3DQA//+KHaizKBPwrjDWiizXyFQYzNBfLViFKLyq3myv2xsR3aDdsCi6OeBM7F9o0ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\renau\\source\\GitHub\\DotNetCleanArchitecture\\CleanArchitectureDemo\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data\\CleanArchitectureDemo.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renau\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\renau\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

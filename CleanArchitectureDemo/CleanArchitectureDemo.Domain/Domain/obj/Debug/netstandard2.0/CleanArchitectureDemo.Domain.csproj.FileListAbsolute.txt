@@ -1,9 +1,9 @@
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\bin\Debug\netstandard2.0\CleanArchitectureDemo.Domain.deps.json
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\bin\Debug\netstandard2.0\CleanArchitectureDemo.Domain.dll
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\bin\Debug\netstandard2.0\CleanArchitectureDemo.Domain.pdb
-C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.csprojAssemblyReference.cache
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.AssemblyInfoInputs.cache
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.AssemblyInfo.cs
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.csproj.CoreCompileInputs.cache
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.dll
 C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\renau\source\GitHub\DotNetCleanArchitecture\CleanArchitectureDemo\CleanArchitectureDemo.Domain\Domain\obj\Debug\netstandard2.0\CleanArchitectureDemo.Domain.csprojAssemblyReference.cache

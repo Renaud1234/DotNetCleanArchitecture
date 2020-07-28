@@ -1,18 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using UI.MVC.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using CleanArchitecture.Infra.Data.Persistence;
+using CleanArchitectureDemo.Infra.Data.Persistence;
+using CleanArchitectureDemo.Infrastructure.IoC;
 
 namespace UI.MVC
 {
@@ -35,6 +30,9 @@ namespace UI.MVC
             services.AddDbContext<LibraryDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("LibraryConnection")));
+
+            // Dependency Injection
+            RegisterServices(services);
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -73,6 +71,12 @@ namespace UI.MVC
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
+        }
+
+
+        private static void RegisterServices(IServiceCollection services)
+        {
+            DependencyContainer.RegisterServices(services);
         }
     }
 }
